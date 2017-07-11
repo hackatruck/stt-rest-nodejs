@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/hackatruck/stt-rest-nodejs#readme",
   "dependencies": {
-    "mic": "^2.1.1",
     "watson-developer-cloud": "^2.34.0"
   }
 }
