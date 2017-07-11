@@ -1,0 +1,29 @@
+{
+  "name": "stt-rest-nodejs",
+  "version": "0.0.1",
+  "description": "Uma aplicação simples para exemplificar o uso do serviço Watson Speech to Text",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackatruck/stt-rest-nodejs.git"
+  },
+  "keywords": [
+    "IBM",
+    "STT",
+    "speech-to-text",
+    "Watson"
+  ],
+  "author": "Leandro Cordeiro David (ldavid@br.ibm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackatruck/stt-rest-nodejs/issues"
+  },
+  "homepage": "https://github.com/hackatruck/stt-rest-nodejs#readme",
+  "dependencies": {
+    "mic": "^2.1.1",
+    "watson-developer-cloud": "^2.34.0"
+  }
+}
